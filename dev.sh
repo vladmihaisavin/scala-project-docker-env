@@ -1,7 +1,7 @@
 
 if [ $# -eq 1 ]
   then
-    if [ $1 -eq 'build' ] 
+    if [ $1 == 'build' ] 
     then
       docker-compose up --build -d
     fi
