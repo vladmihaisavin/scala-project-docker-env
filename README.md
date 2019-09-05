@@ -1,4 +1,4 @@
-# Scala web tester
+# Scala project docker env
 
 ## Setup
 In order to get up and running, simply execute the following command:
