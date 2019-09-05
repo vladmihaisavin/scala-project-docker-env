@@ -12,7 +12,7 @@ scalaVersion := "2.12.8"
 
 // It's possible to define many kinds of settings, such as:
 
-name := "scala-web-tester"
+name := "scala-project-docker-env"
 organization := "V&A GMBH"
 version := "1.0"
 
